@@ -1,0 +1,18 @@
+#header{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 27px;
+	margin: 25px;
+}
+#footer ul{
+	list-style: none;
+}
+#footer ul li{
+	display: inline;
+	margin: 5px;
+}
+.landing-page p{
+	text-align: center;
+	font-size: 17px;
+	width: 500px;
+	margin: 15px auto;
+}
